@@ -1,0 +1,8 @@
+/Users/jayellis/projects/work-queue-redis/venv/lib/python3.12/site-packages/keras/src/export/tf2onnx_lib.py:8: FutureWarning: In the future `np.object` will be defined as the corresponding NumPy scalar.
+  if not hasattr(np, "object"):
+* Loading model...
+* Model loaded
+* Batch size: (1, 224, 224, 3)
+[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 451ms/step[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 455ms/step
+Downloading data from https://storage.googleapis.com/download.tensorflow.org/data/imagenet_class_index.json
+[1m    0/35363[0m [37m━━━━━━━━━━━━━━━━━━━━[0m [1m0s[0m 0s/step[1m24576/35363[0m [32m━━━━━━━━━━━━━[0m[37m━━━━━━━[0m [1m0s[0m 3us/step[1m35363/35363[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 3us/step

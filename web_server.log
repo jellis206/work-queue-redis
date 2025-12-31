@@ -1,0 +1,10 @@
+/Users/jayellis/projects/work-queue-redis/venv/lib/python3.12/site-packages/keras/src/export/tf2onnx_lib.py:8: FutureWarning: In the future `np.object` will be defined as the corresponding NumPy scalar.
+  if not hasattr(np, "object"):
+* Starting web service...
+ * Serving Flask app 'run_web_server'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [31/Dec/2025 12:44:49] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [31/Dec/2025 12:45:59] "POST /predict HTTP/1.1" 200 -
